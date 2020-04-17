@@ -1,0 +1,11 @@
+#movieTitle{
+    font-size: 36px;
+    font-weight: 800;
+    font-style: italic;
+}
+#directedBy{
+    font-size: 32px;
+}
+#directorName{
+    font-size: 24px;
+}
